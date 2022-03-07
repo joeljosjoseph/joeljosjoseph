@@ -1,6 +1,6 @@
 # Hi, I'm [Joel](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! 👋
 
->  💻 Full-stack Software Engineer | Go + React
+>  💻 Full-stack Devoloper (Work-in-progress) | React
 
 <!-- [![Twitter: @availchet](https://img.shields.io/twitter/follow/availchet?style=social)](https://twitter.com/availchet)
 [![Linkedin: chetanya-kandhari](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/chetanya-kandhari/)
@@ -14,29 +14,18 @@
 
 --- -->
 
-I have over 3 years of experience working as a software engineer.
-My passion lies in solving challenging problems, designing systems, and communicating complex ideas to non-technical stakeholders.
-I always look forward to exceeding expectations and I am effective both working as an individual and as part of a team.
-
-In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: and watch movies :tv:.
-
-I enjoy trying out emerging technologies and connecting with people across a wide range of backgrounds. 
-If you ever want to bounce ideas off of me or even just have a chat about my favorite anime, please feel free to reach out. 😄
+I am a college student studying computer application. Trying to improve my skills in coding, still a newbie.
 
 <!-- ## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanyakan&hide=["issues"]&show_icons=true)
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=availchet&hide=["issues"]&show_icons=true) -->
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
-- **BackEnd**: Go, Node.js, Express
-- **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
-- **DevOps**: Docker, Ansible, Fastlane, Nginx, Makefile
+- **FrontEnd**: React
+- **BackEnd**: Node.js, Express
 - **Mobile**: React Native
-- **Bots**: Botkit, Rasa
 - **UI Frameworks**: Material-UI, Bootstrap
-- **Web technologies**: HTML5, CSS3, ES7+, a11y
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
-- **Misc**: Git, Eslint, Prettier, Typescript
+- **Web technologies**: HTML5, CSS3, ES7+
+- **Databases**: MySQL, PostgreSQL
 - **Languages**: C, C++, Java
 
