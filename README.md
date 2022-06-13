@@ -23,7 +23,7 @@ I am a college student studying computer application. Trying to improve my skill
 ##  🎉 Skills  🎉
 - **FrontEnd**: React
 - **BackEnd**: Node.js, Express
-- **Mobile**: React Native
+- **Mobile**: Java
 - **UI Frameworks**: Material-UI, Bootstrap
 - **Web technologies**: HTML5, CSS3, ES7+
 - **Databases**: MySQL, PostgreSQL
