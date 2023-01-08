@@ -27,5 +27,5 @@ I am a college student studying computer application. Trying to improve my skill
 - **UI Frameworks**: Material-UI, Bootstrap, TailWindCSS, SASS
 - **Web technologies**: HTML5, CSS3, ES7+
 - **Databases**: MySQL, PostgreSQL, Firebase, MongoDB
-- **Languages**: C, C++, Java, JS, Solidity, 
+- **Languages**: C, C++, Java, JS, Solidity
 
