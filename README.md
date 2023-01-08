@@ -1,6 +1,6 @@
-# Hi, I'm [Joel](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! 👋
+# Hi, I'm Joel! 👋
 
->  💻 Full-stack Devoloper (Work-in-progress) | React
+>  💻 Full-stack Devoloper (Work-in-progress) | React | Solidity
 
 <!-- [![Twitter: @availchet](https://img.shields.io/twitter/follow/availchet?style=social)](https://twitter.com/availchet)
 [![Linkedin: chetanya-kandhari](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/chetanya-kandhari/)
