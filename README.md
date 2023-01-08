@@ -21,11 +21,11 @@ I am a college student studying computer application. Trying to improve my skill
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=availchet&hide=["issues"]&show_icons=true) -->
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React
-- **BackEnd**: Node.js, Express
+- **FrontEnd**: React,NextJs
+- **BackEnd**: Solidity, Node.js, Express,
 - **Mobile**: Java
-- **UI Frameworks**: Material-UI, Bootstrap
+- **UI Frameworks**: Material-UI, Bootstrap, TailWindCSS, SASS
 - **Web technologies**: HTML5, CSS3, ES7+
-- **Databases**: MySQL, PostgreSQL
-- **Languages**: C, C++, Java
+- **Databases**: MySQL, PostgreSQL, Firebase, MongoDB
+- **Languages**: C, C++, Java, JS, Solidity, 
 
