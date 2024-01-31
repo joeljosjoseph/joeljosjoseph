@@ -1,6 +1,6 @@
 # Hi, I'm Joel! 👋
 
->  💻 Full-stack Devoloper (Work-in-progress) | React | Solidity
+>  💻 Front-end Devoloper | React | Solidity
 
 <!-- [![Twitter: @availchet](https://img.shields.io/twitter/follow/availchet?style=social)](https://twitter.com/availchet)
 [![Linkedin: chetanya-kandhari](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanya-kandhari/)](https://www.linkedin.com/in/chetanya-kandhari/)
@@ -14,7 +14,7 @@
 
 --- -->
 
-I am a college student studying computer application. Trying to improve my skills in coding, still a newbie.
+I am a working professional specialized in front-end development.
 
 <!-- ## ⚡ Stats
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanyakan&hide=["issues"]&show_icons=true)
